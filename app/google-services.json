@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677729787264",
+    "project_id": "brainybunch",
+    "storage_bucket": "brainybunch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677729787264:android:c3f2e4696822638c663565",
+        "android_client_info": {
+          "package_name": "com.example.brainybunch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1rcWBgMw7uAsEJTD2B1Z6SusqD7A6ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
